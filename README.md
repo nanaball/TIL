@@ -9,7 +9,7 @@
 <HR> 
 
 ## 종류별
-   - [HTML](./HTML/HTML정리.md)
+   - [HTML](HTML정리.md)
    - [마크다운]()
    - [GIT]()
   
